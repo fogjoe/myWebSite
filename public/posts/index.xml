@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - Joe&#39;s Blog</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>所有文章 | Joe&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Mon, 30 Sep 2024 21:13:56 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Hello</title>
+    <link>http://localhost:1313/posts/hello/</link>
+    <pubDate>Mon, 30 Sep 2024 21:13:56 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://localhost:1313/posts/hello/</guid>
+    <description><![CDATA[Title Welcom to the real world, it sucks, but you gonna love it!]]></description>
+</item>
+</channel>
+</rss>
