@@ -4,6 +4,7 @@ defaultContentLanguage = "zh-cn"
 # language code
 languageCode = "zh-cn"
 title = "Joe's Blog"
+author="Joe"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
