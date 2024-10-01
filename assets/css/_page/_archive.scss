@@ -1,6 +1,6 @@
 .archive {
   .single-title {
-    text-align: right;
+    text-align: center;
   }
 
   .group-title {
@@ -8,6 +8,6 @@
     margin-bottom: 1rem;
   }
 
-  @import "../_partial/_archive/terms";
-  @import "../_partial/_archive/tags";
+  @import '../_partial/_archive/terms';
+  @import '../_partial/_archive/tags';
 }

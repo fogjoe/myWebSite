@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Sports - 标签 - Joe&#39;s Blog</title>
+        <link>http://localhost:1313/tags/sports/</link>
+        <description>Sports - 标签 - Joe&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Sat, 21 Sep 2024 10:57:21 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/sports/" rel="self" type="application/rss+xml" /><item>
+    <title>拧巴的人生</title>
+    <link>http://localhost:1313/%E8%BF%90%E5%8A%A8/2024/09/21/</link>
+    <pubDate>Sat, 21 Sep 2024 10:57:21 &#43;0800</pubDate>
+    <author>Joe</author>
+    <guid>http://localhost:1313/%E8%BF%90%E5%8A%A8/2024/09/21/</guid>
+    <description><![CDATA[今天跑了大概 8km，整体跑步状态还不错！ 不过跑步过程中出现了一些小插曲，在跑到大概 6 公里的时候，肚子明显不舒服了，最明智的做法就是走路回去，]]></description>
+</item>
+</channel>
+</rss>

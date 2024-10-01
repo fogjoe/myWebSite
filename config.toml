@@ -62,20 +62,27 @@ paginatePath = "page"
     weight = 1
   [[menu.main]]
     identifier = "tags"
-    pre = ""
-    post = ""
-    name = "生活"
+    name = "标签"
     url = "/tags/"
-    title = ""
     weight = 2
   [[menu.main]]
-    identifier = "categories"
+    identifier = "life"
+    name = "生活"
+    url = "/life/"
     pre = ""
     post = ""
-    name = "随笔"
-    url = "/categories/"
     title = ""
     weight = 3
+  [[menu.main]]
+    identifier = "sports"
+    name = "运动"
+    url = "/sports/"
+    weight = 4
+  [[menu.main]]
+    identifier = "categories"
+    name = "分类"
+    url = "/categories/"
+    weight = 5
 
 # Markup related configuration in Hugo
 [markup]
