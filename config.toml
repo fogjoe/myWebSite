@@ -47,6 +47,10 @@ paginatePath = "page"
   [params.home]
     [params.home.profile]
       subtitle= "Welcome to the real world, it sucks, but you gonna love it!"
+    [params.home.posts]
+      enable = false
+      paginate = 6
+      defaultHiddenFromHomePage = false
   
 [menu]
   [[menu.main]]
