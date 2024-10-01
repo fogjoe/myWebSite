@@ -33,7 +33,7 @@ paginatePath = "page"
 
   [params.header]
     [params.header.title]
-      logo = "/images/fogjoe.jpeg"
+      logo = "/images/fogjoe-transparent.png"
       name = ""
 
   [params.author]
