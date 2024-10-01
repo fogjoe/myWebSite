@@ -2,6 +2,7 @@
 title = '国庆节当天的运动'
 date = 2024-10-01T19:31:18+08:00
 draft = false
+tags = ['sports']
 +++
 
 # 跑步情况
