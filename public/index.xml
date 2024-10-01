@@ -2,7 +2,7 @@
     <channel>
         <title>Joe&#39;s Blog</title>
         <link>http://localhost:1313/</link>
-        <description>This is my cool site</description>
+        <description>Welcome to the real world, it sucks, but you gonna love it!</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Mon, 30 Sep 2024 21:52:01 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
