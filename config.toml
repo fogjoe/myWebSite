@@ -3,18 +3,38 @@ baseURL = "http://fogjoe.github.io/"
 defaultContentLanguage = "zh-cn"
 # language code
 languageCode = "zh-cn"
-title = "Joe's Blog"
-
-# Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
+title = "Joe's Blog"
+enableRobotsTXT = true       # generate robots.txt
+enableEmoji = true           # use emoji support
+hasCJKLanguage = true        # detect CJK languages for word count etc.
+preserveTaxonomyNames = true # do not make tag names lowercase
+rssLimit = 20                # limit number of entries in RSS feeds
+
+disablePathToLower = true 
+defaultContentLanguageInSubdir = false
+
+# Syntax Hightlight
+PygmentsCodeFences = true
+PygmentsUseClasses = true    # required for shhighlight shortcode
+
+paginate = 20
+paginatePath = "page"
+
+[author]
+  name = 'Joe'
+  email = 'fogjoe77@gmail.com'
 
 [params]
-  title ="Joe's Blog111"
+  since = "2024"             # Site creation time
+  rssFullContent = true      # set true to use full content instead of summary
+
   description = "Welcome to the real world, it sucks, but you gonna love it!"
 
   [params.header]
     [params.header.title]
-      name = "Joe's Blog"
+      logo = "images/fogjoe.jpeg"
+      name = ""
 
   [params.author]
     [params.author.name]
@@ -24,6 +44,9 @@ theme = "LoveIt"
 
   [params.app]  
     title = "Joe's Blog"
+  [params.home]
+    [params.home.profile]
+      subtitle= "Welcome to the real world, it sucks, but you gonna love it!"
   
 [menu]
   [[menu.main]]

@@ -3,25 +3,22 @@
         <title>Joe&#39;s Blog</title>
         <link>http://localhost:1313/</link>
         <description>Welcome to the real world, it sucks, but you gonna love it!</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Mon, 30 Sep 2024 21:52:01 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Mon, 30 Sep 2024 21:52:01 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Poem</title>
     <link>http://localhost:1313/posts/poem/</link>
     <pubDate>Mon, 30 Sep 2024 21:52:01 &#43;0800</pubDate>
-    <author>作者</author>
+    <author>Joe</author>
     <guid>http://localhost:1313/posts/poem/</guid>
-    <description><![CDATA[Poem 青青河畔草，郁郁园中柳。
-盈盈楼上女，皎皎当窗牖。
-娥娥红粉妆，纤纤出素手。
-昔为倡家女，今为荡子妇。
-游子行不归，空床难独守。]]></description>
+    <description><![CDATA[Poem 青青河畔草，郁郁园中柳。 盈盈楼上女，皎皎当窗牖。 娥娥红粉妆，纤纤出素手。 昔为倡家女，今为荡子妇。 游子行不归，空床难独守。]]></description>
 </item>
 <item>
     <title>Hello</title>
     <link>http://localhost:1313/posts/hello/</link>
     <pubDate>Mon, 30 Sep 2024 21:13:56 &#43;0800</pubDate>
-    <author>作者</author>
+    <author>Joe</author>
     <guid>http://localhost:1313/posts/hello/</guid>
     <description><![CDATA[Title Welcom to the real world, it sucks, but you gonna love it!]]></description>
 </item>

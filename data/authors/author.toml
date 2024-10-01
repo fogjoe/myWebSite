@@ -1,0 +1,11 @@
+url = "https://www.fogjoe.com"
+
+[name]
+display = "Fogjoe"
+
+[image]
+url = "images/fogjoe.png"
+
+[zh-cn]
+description = "Welcome to the real world, it sucks, but you gonna love it!"
+

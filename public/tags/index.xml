@@ -3,5 +3,6 @@
         <title>Tags - 标签 - Joe&#39;s Blog</title>
         <link>http://localhost:1313/tags/</link>
         <description>Tags - 标签 - Joe&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
