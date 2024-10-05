@@ -97,8 +97,10 @@ tags = ['life']
 这次山东之旅总体来看并未达到预期的那样，不过过程还是不错的，和朋友吃吃喝喝，或许
 后面见面的机会越来越少，所以才要更加珍惜和好朋友的每一次见面！
 
-<!-- <iframe type="music" frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=277766&auto=1&height=66"></iframe> -->
+<p class="audio">
 
-<audio id="audio" controls="" preload="none">
-  <source id="mp3" src="./周润发 _ Maria - 友谊之光_爱给网_aigei_com.mp3">
+<audio controls autoplay>
+  <source type="audio/mpeg" src="./周润发 _ Maria - 友谊之光_爱给网_aigei_com.mp3">
 </audio>
+</p>
+<!-- <iframe type="music" frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=277766&auto=1&height=66"></iframe> -->
