@@ -2,10 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/</loc><lastmod>2024-10-01T19:31:18&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2024-10-05T20:03:48&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/life/</loc><lastmod>2024-10-05T20:03:48&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/life/</loc><lastmod>2024-10-05T20:03:48&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/</loc><lastmod>2024-10-05T20:03:48&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/life/2024/10/05/</loc><lastmod>2024-10-05T20:03:48&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/sports/</loc><lastmod>2024-10-01T19:31:18&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/sports/</loc><lastmod>2024-10-01T19:31:18&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/</loc><lastmod>2024-10-01T19:31:18&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/sports/2024/10/01/</loc><lastmod>2024-10-01T19:31:18&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/posts/poem/</loc><lastmod>2024-09-30T21:52:01&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/posts/</loc><lastmod>2024-09-30T21:52:01&#43;08:00</lastmod></url><url>
