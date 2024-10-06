@@ -87,6 +87,11 @@ paginatePath = "page"
     name = "分类"
     url = "/categories/"
     weight = 5
+  [[menu.main]]
+    identifier = "books"
+    name = "阅读"
+    url = "/books/"
+    weight = 6
 
 # Markup related configuration in Hugo
 [markup]

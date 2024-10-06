@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Joe&#39;s Blog</title>
+    <link>http://localhost:1313/books/</link>
+    <description>Recent content in Books on Joe&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <managingEditor>map[email:fogjoe77@gmail.com] (map[name:Joe])</managingEditor>
+    <webMaster>map[email:fogjoe77@gmail.com] (map[name:Joe])</webMaster>
+    <lastBuildDate>Sun, 06 Oct 2024 21:58:48 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小妇人</title>
+      <link>http://localhost:1313/books/2024/10/06/</link>
+      <pubDate>Sun, 06 Oct 2024 21:58:48 +0800</pubDate><author>map[email:fogjoe77@gmail.com] (map[name:Joe])</author>
+      <guid>http://localhost:1313/books/2024/10/06/</guid>
+      <description>今天总算是把《小妇人》看完了，看完之后久久不能为贝思的去世释怀，当看到贝思去世的时候真想给作者寄刀片！ 看这本书总共是花了 11 个小时，大部分是在</description>
+    </item>
+  </channel>
+</rss>
