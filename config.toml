@@ -31,6 +31,9 @@ paginatePath = "page"
 
   description = "Welcome to the real world, it sucks, but you gonna love it!"
 
+  [params.page]
+    hiddenFromSearch = false
+
   [params.header]
     [params.header.title]
       logo = "/images/fogjoe-transparent.png"
@@ -55,7 +58,7 @@ paginatePath = "page"
   [params.search]
     enable = true
     # type of search engine ["lunr", "algolia"]
-    type = "lunr"
+    type = "algolia"
     # max index length of the chunked content
     contentLength = 4000
     # placeholder of the search bar
@@ -63,12 +66,15 @@ paginatePath = "page"
     #  max number of results length
     maxResultLength = 10
     #  snippet length of the result
-    snippetLength = 30
+    snippetLength = 50
     #  HTML tag name of the highlight part in results
     highlightTag = "em"
     #  whether to use the absolute URL based on the baseURL in search index
     absoluteURL = false
     [params.search.algolia]
+      # index = "index"
+      # appID = "PASDMWALPK"
+      # searchKey = "b42948e51daaa93df92381c8e2ac0f93"
       index = ""
       appID = ""
       searchKey = ""
@@ -132,3 +138,9 @@ paginatePath = "page"
     startLevel = 2
     endLevel = 6
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "MarkDown"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML"]
