@@ -39,6 +39,9 @@ other = "运动"
 [books]
 other = "书籍"
 
+[essay]
+other = "随笔"
+
 # === Pagination ===
 [more]
 other = "更多"

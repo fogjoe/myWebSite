@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Essays on Joe&#39;s Blog</title>
+    <link>http://localhost:1313/essay/</link>
+    <description>Recent content in Essays on Joe&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <managingEditor>map[email:fogjoe77@gmail.com] (map[name:Joe])</managingEditor>
+    <webMaster>map[email:fogjoe77@gmail.com] (map[name:Joe])</webMaster>
+    <lastBuildDate>Tue, 08 Oct 2024 17:55:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/essay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EVA</title>
+      <link>http://localhost:1313/essay/2024/10/08/</link>
+      <pubDate>Tue, 08 Oct 2024 17:55:00 +0800</pubDate><author>map[email:fogjoe77@gmail.com] (map[name:Joe])</author>
+      <guid>http://localhost:1313/essay/2024/10/08/</guid>
+      <description>断断续续花了三天时间看完了《EVA》，看的时候发现那个时代的潮流在当下已经所见不鲜了，很平常的剧情：升级打怪。但是它涉及的主题很深奥，尤其是</description>
+    </item>
+  </channel>
+</rss>
