@@ -80,16 +80,21 @@ paginatePath = "page"
       searchKey = ""
   
 [menu]
+  # [[menu.main]]
+  #   identifier = "sports"
+  #   # you can add extra information before the name (HTML format is supported), such as icons
+  #   pre = ""
+  #   # you can add extra information after the name (HTML format is supported), such as icons
+  #   post = ""
+  #   name = "运动"
+  #   url = "/sports/"
+  #   # title will be shown when you hover on this menu link
+  #   title = ""
+  #   weight = 1
   [[menu.main]]
-    identifier = "sports"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "运动"
-    url = "/sports/"
-    # title will be shown when you hover on this menu link
-    title = ""
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
     weight = 1
   [[menu.main]]
     identifier = "tags"
@@ -97,33 +102,25 @@ paginatePath = "page"
     url = "/tags/"
     weight = 2
   [[menu.main]]
-    identifier = "life"
-    name = "生活"
-    url = "/life/"
-    weight = 3
-  [[menu.main]]
-    identifier = "posts"
-    name = "技术"
-    url = "/posts/"
-    pre = ""
-    post = ""
-    title = ""
-    weight = 4
-  [[menu.main]]
     identifier = "categories"
     name = "分类"
     url = "/categories/"
-    weight = 5
-  [[menu.main]]
-    identifier = "books"
-    name = "阅读"
-    url = "/books/"
-    weight = 6
-  [[menu.main]]
-    identifier = "essay"
-    name = "随笔"
-    url = "/essay/"
-    weight = 7
+    weight = 3
+  # [[menu.main]]
+  #   identifier = "life"
+  #   name = "生活"
+  #   url = "/life/"
+  #   weight = 3
+  # [[menu.main]]
+  #   identifier = "books"
+  #   name = "阅读"
+  #   url = "/books/"
+  #   weight = 6
+  # [[menu.main]]
+  #   identifier = "essay"
+  #   name = "随笔"
+  #   url = "/essay/"
+  #   weight = 7
 
 # Markup related configuration in Hugo
 [markup]

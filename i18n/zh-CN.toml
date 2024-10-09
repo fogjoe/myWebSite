@@ -25,9 +25,6 @@ other = "标签"
 [tags]
 other = "标签"
 
-[category]
-other = "分类"
-
 [categories]
 other = "分类"
 # === Taxonomy ===
@@ -39,8 +36,20 @@ other = "运动"
 [books]
 other = "书籍"
 
+[literature]
+other = '文学'
+
+[travel]
+other = "旅游"
+
+[run]
+other = '跑步'
+
 [essay]
 other = "随笔"
+
+[movie]
+other = "影视剧"
 
 # === Pagination ===
 [more]
