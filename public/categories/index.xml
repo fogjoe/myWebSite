@@ -5,7 +5,7 @@
         <description>Categories - 分类 - Joe&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
             <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Tue, 08 Oct 2024 17:55:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
-    <title>Movie</title>
+    <title>影视剧</title>
     <link>http://localhost:1313/categories/movie/</link>
     <pubDate>Tue, 08 Oct 2024 17:55:00 &#43;0800</pubDate>
     <author>Joe</author>
@@ -13,7 +13,7 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>Literature</title>
+    <title>文学</title>
     <link>http://localhost:1313/categories/literature/</link>
     <pubDate>Sun, 06 Oct 2024 21:58:48 &#43;0800</pubDate>
     <author>Joe</author>
@@ -21,7 +21,7 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>Travel</title>
+    <title>旅游</title>
     <link>http://localhost:1313/categories/travel/</link>
     <pubDate>Sat, 05 Oct 2024 20:03:48 &#43;0800</pubDate>
     <author>Joe</author>
@@ -29,7 +29,7 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>Run</title>
+    <title>跑步</title>
     <link>http://localhost:1313/categories/run/</link>
     <pubDate>Tue, 01 Oct 2024 19:31:18 &#43;0800</pubDate>
     <author>Joe</author>

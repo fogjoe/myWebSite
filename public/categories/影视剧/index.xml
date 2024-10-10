@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>影视剧 - 分类 - Joe&#39;s Blog</title>
+        <link>http://localhost:1313/categories/%E5%BD%B1%E8%A7%86%E5%89%A7/</link>
+        <description>影视剧 - 分类 - Joe&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><atom:link href="http://localhost:1313/categories/%E5%BD%B1%E8%A7%86%E5%89%A7/" rel="self" type="application/rss+xml" /></channel>
+</rss>
