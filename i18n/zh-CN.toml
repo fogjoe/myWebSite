@@ -53,6 +53,8 @@ other = "随笔"
 [movie]
 other = "影视剧"
 
+[daily]
+other = "碎碎念"
 # === Pagination ===
 [more]
 other = "更多"

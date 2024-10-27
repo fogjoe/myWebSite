@@ -2,16 +2,19 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/categories/</loc><lastmod>2024-10-13T19:10:24&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2024-10-13T19:10:24&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2024-10-13T19:10:24&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/</loc><lastmod>2024-10-27T22:24:51&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/daily/</loc><lastmod>2024-10-27T22:24:51&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/essay/</loc><lastmod>2024-10-27T22:24:51&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2024-10-27T22:24:51&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2024-10-27T22:24:51&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/</loc><lastmod>2024-10-27T22:24:51&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/essay/%E4%BB%80%E4%B9%88%E6%98%AF%E6%81%8B%E7%88%B1/</loc><lastmod>2024-10-27T22:24:51&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/movie/</loc><lastmod>2024-10-27T21:56:43&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/essay/Successor/</loc><lastmod>2024-10-27T21:56:43&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/sports/</loc><lastmod>2024-10-13T19:10:24&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/</loc><lastmod>2024-10-13T19:10:24&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/categories/cycle/</loc><lastmod>2024-10-13T19:10:24&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/posts/sports/%E5%96%9C%E6%8F%90%E6%96%AF%E7%89%B9%E6%8B%8993/</loc><lastmod>2024-10-13T19:10:24&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/essay/</loc><lastmod>2024-10-08T17:55:00&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/posts/essay/EVA/</loc><lastmod>2024-10-08T17:55:00&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/categories/movie/</loc><lastmod>2024-10-08T17:55:00&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/books/</loc><lastmod>2024-10-06T21:58:48&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/categories/literature/</loc><lastmod>2024-10-06T21:58:48&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/posts/books/%E5%B0%8F%E5%A6%87%E4%BA%BA/</loc><lastmod>2024-10-06T21:58:48&#43;08:00</lastmod></url><url>
