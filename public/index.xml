@@ -4,9 +4,17 @@
         <link>http://localhost:1313/</link>
         <description>Welcome to the real world, it sucks, but you gonna love it!</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
-            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Thu, 31 Oct 2024 09:47:18 &#43;0800</lastBuildDate>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Sun, 03 Nov 2024 20:30:06 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>第一张自行车罚单</title>
+    <link>http://localhost:1313/posts/sports/%E7%AC%AC%E4%B8%80%E5%BC%A0%E8%87%AA%E8%A1%8C%E8%BD%A6%E7%BD%9A%E5%8D%95/</link>
+    <pubDate>Sun, 03 Nov 2024 20:30:06 &#43;0800</pubDate>
+    <author>Joe</author>
+    <guid>http://localhost:1313/posts/sports/%E7%AC%AC%E4%B8%80%E5%BC%A0%E8%87%AA%E8%A1%8C%E8%BD%A6%E7%BD%9A%E5%8D%95/</guid>
+    <description><![CDATA[昨天得知一个朋友说第二天早上有个骑行的团，我寻思着他们七点出发，我七点半出发看能不能赶上他么，结果骑到渔人码头后发现没啥骑友，于是待了一会就]]></description>
+</item>
+<item>
     <title>通勤趣事</title>
     <link>http://localhost:1313/posts/essay/%E9%80%9A%E5%8B%A4%E8%B6%A3%E4%BA%8B/</link>
     <pubDate>Thu, 31 Oct 2024 09:47:18 &#43;0800</pubDate>
