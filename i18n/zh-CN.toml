@@ -47,6 +47,11 @@ other = '跑步'
 [cycle]
 other = '骑行'
 
+[investment]
+other = '投资'
+[money]
+other = '理财'
+
 [essay]
 other = "随笔"
 

@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Dollar - 分类 - Joe&#39;s Blog</title>
+        <link>http://localhost:1313/categories/dollar/</link>
+        <description>Dollar - 分类 - Joe&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><atom:link href="http://localhost:1313/categories/dollar/" rel="self" type="application/rss+xml" /></channel>
+</rss>
