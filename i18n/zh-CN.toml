@@ -51,6 +51,8 @@ other = '骑行'
 other = '投资'
 [money]
 other = '理财'
+[learn]
+other = '学习'
 
 [essay]
 other = "随笔"

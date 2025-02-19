@@ -1,0 +1,152 @@
++++
+title = '五词以内迷你句子'
+date = 2025-02-18T17:23:09+08:00
+draft = false
+tags = ['learn']
+categories = ['english']
++++
+
+<!-- 1. come to the point -> 进入正题吧
+2. got a minute -> 有空吗
+3. I can't get through -> 电话接不通
+4. move over -> 往旁边移过去
+5. here i am -> 我到了 -->
+
+- Come to the point -> 快说重点
+- Go to a minute -> 等一下
+- I can't get through -> 电话打不通
+- Move over -> 往旁边挪
+- Here I am -> 我到了
+- What's up? -> 怎么了？
+- Good job -> 做得好
+- Trust me -> 相信我
+- That's true -> 那是真的
+- Why not? -> 为什么不行？
+- Listen up -> 听好了
+- What else? -> 还有其他吗？
+- It's too tight -> 这衣服太紧了
+- It takes time -> 需要时间
+- Not at all -> 没什么不客气
+- Guess what? -> 你知道吗？
+- Got it -> 知道了
+- My mistake -> 我弄错了
+- It's about time -> 是时候了
+- That's it -> 就是这样
+- I'm home -> 我到家了
+- Stop being rude -> 别这么无礼
+- Leave me alone -> 让我静静
+- Keep going -> 坚持下去
+- That's impossible -> 不可能
+- I'd rather not -> 我宁愿不
+- You're kidding -> 你在开玩笑吧
+- Hold your tongue -> 保持沉默
+- Take care -> 保重
+- Stop it -> 停止
+- Come on in -> 快进来
+- Can't complain -> 没什么好抱怨的
+- Time to go -> 该走了
+- Time's up -> 时间到了
+- Ready to go -> 准备好了吗？
+- You're doing okay -> 你还好吧
+- Let it be -> 顺其自然
+- Hold on tight -> 抓紧
+- You look tired -> 你看起来很累
+- Take it easy -> 放轻松
+- Think it over -> 好好考虑
+- Absolutely not -> 绝对不行
+- Like what -> 像什么？
+- Come along -> 一起来
+- Hold on -> 等一下
+- What for -> 为什么？
+- Way to go -> 做得好
+- Feel better -> 感觉好多了
+- Neither do I -> 我也不是
+- Give me a call -> 保持联系
+- Not much -> 不多
+- Not really -> 并不全是
+- Not exactly -> 不完全是
+- Time will tell -> 时间会证明一切
+- Sort of -> 有点儿
+- Not yet -> 还没
+- How come -> 为什么呢？
+- Think twice -> 再三考虑
+- It's up to you -> 由你决定
+- No problem -> 没问题
+- Try some -> 试试看
+- Don't bug me -> 别烦我
+- Watch out -> 小心
+- Anything new -> 有新鲜事吗？
+- Let me see -> 让我想想
+- Not bad -> 还不错
+- I swear -> 我发誓
+- Touch wood -> 祈祷好运
+- Calm down -> 冷静
+- Have fun -> 祝你玩得开心
+- We are all ears -> 我们洗耳恭听
+- Could be -> 可能是
+- Sleep tight -> 晚安，睡个好觉
+- After you -> 你先请
+- Come over -> 过来吧
+- Nice try -> 想得美
+- Help yourself -> 请自便
+- Take your time -> 慢慢来，不着急
+- I appreciate it -> 谢谢你
+- It's on me -> 我请客
+- Sounds good -> 听起来不错
+- It doesn't fit -> 不合身
+- I'll take this -> 我要这个
+- Same here -> 我也是
+- Who's calling -> 谁在打电话？
+- Allow me -> 让我来
+- Any day will do -> 哪天都行
+- Say again -> 再说一次
+- It's chilly out -> 外面很冷
+- Since when -> 从什么时候开始？
+- Where to -> 去哪儿？
+- Wait for me -> 等等我
+- Get down -> 下来
+- Give me a break -> 给我点时间
+- No kidding -> 不是开玩笑吧
+- Who cares -> 谁在乎？
+- Is that clear? -> 明白了吗？
+- That's right -> 对的
+- Let go -> 放手
+- I quit -> 我不干了
+- No way -> 没门
+- Just checking -> 只是问问
+- Me too -> 我也是
+- My God -> 天哪
+- I see -> 我明白了
+- I made it -> 我做到了
+- I agree -> 我同意
+- See you -> 再见
+- So long -> 再见
+- Shut up -> 闭嘴
+- Cheer up -> 振作起来
+- I'm full -> 我饱了
+- I'm lost -> 我迷路了
+- My treat -> 我请客
+- So do I -> 我也是
+- This way -> 这边走
+- Bless you -> 祝福你
+- Follow me -> 跟我来
+- Good luck -> 祝你好运
+- I decline -> 我拒绝
+- Of course -> 当然了
+- They hurt -> 它们很疼
+- Slow down -> 慢点儿
+- Try again -> 再试试
+- I promise -> 我保证
+- Be careful -> 小心点
+- I doubt it -> 我怀疑
+- I am single -> 我单身
+- I think so -> 我也这么想
+- Keep it up -> 继续努力
+- Time is up -> 时间到了
+- Don't worry -> 别担心
+- Never mind -> 没关系
+- Count me in -> 算我一个
+- That is all -> 就这样
+- Feel better -> 感觉好点了吗？
+- I love you -> 我爱你
+
