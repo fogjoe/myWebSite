@@ -6,7 +6,7 @@ tags = ['learn']
 categories = ['english']
 +++
 
-- any messages for me -> 有给我留言吗？
+- any messages for me -> 有什么要告诉我的吗？
 - he won an election -> 他赢得了选举
 - I am a football fan -> 我是个足球迷
 - If only I could fly -> 要是能飞就好了
