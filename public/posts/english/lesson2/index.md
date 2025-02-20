@@ -1,0 +1,127 @@
+# 五词以内迷你句子2
+
+
+- any messages for me -> 有什么要告诉我的吗？
+- he won an election -> 他赢得了选举
+- I am a football fan -> 我是个足球迷
+- If only I could fly -> 要是能飞就好了
+- It's going too far -> 这太过分了
+- may I use your pen -> 我可以用你的笔吗？
+- she had a bad cold -> 她得了重感冒
+- is it yours -> 这是你的吗？
+- that's neat -> 这很好
+- are you sure? -> 你确定吗？
+- do I have to? -> 我非得这样做吗？
+- take it easy -> 放轻松，别紧张
+- What a pity -> 太遗憾了
+- Anything else -> 还要别的吗？
+- He is my age -> 他和我同岁
+- Here you are -> 给你
+- No one knows -> 没人知道
+- To be careful -> 一定要小心
+- Do me a favor -> 帮个忙好吗？
+- Keep in touch -> 保持联系
+- You set me up -> 你陷害我
+- Time is money -> 时间就是金钱
+- Who is calling -> 是哪一位在打电话？
+- You did right -> 你做得对
+- Help yourself -> 请自便
+- I'm on a diet -> 我在节食
+- Can I help you -> 我能帮你吗？
+- Enjoy yourself -> 祝你玩得开心
+- Excuse me, Sir -> 先生，对不起
+- Give me a hand -> 帮帮我
+- How's it going -> 最近怎么样？
+- I have no idea -> 我不知道
+- I just made it -> 我刚刚做到了
+- I'll see to it -> 我会处理的
+- I'm in a hurry -> 我赶时间
+- It's her field -> 这是她的专业领域
+- It's up to you -> 由你决定
+- Just wonderful -> 简直太棒了
+- What about you -> 你呢？
+- You owe me one -> 你欠我一个人情
+- You're welcome -> 不客气
+- Any day will do -> 哪一天都行
+- Are you kidding -> 你在开玩笑吗？
+- Congratulations -> 祝贺你
+- I can't help it -> 我控制不了
+- I don't mean it -> 我不是那个意思
+- I'll fix you up -> 我会帮你安排好的
+- It sounds great -> 听起来很好
+- It's a fine day -> 今天天气很好
+- So far so good -> 到目前为止一切顺利
+- What time is it -> 现在几点了？
+- You can make it -> 你可以做到的
+- Control yourself -> 控制好自己
+- He came by train -> 他乘火车来的
+- He is ill and bad -> 他病得很重
+- He lacks courage -> 他缺乏勇气
+- How's everything -> 一切都好吗？
+- I have no choice -> 我别无选择
+- I like ice cream -> 我喜欢吃冰淇淋
+- I love this game -> 我爱这项运动
+- No pain no gain -> 不劳无获
+- Well it depends -> 这得看情况
+- Long time no see -> 好久不见
+- We're all for it -> 我们都支持这个
+- I'll try my best -> 我会尽力而为
+- I'm on your side -> 我站在你这边
+- What a good deal -> 真划算
+- What should I do? -> 我该怎么办？
+- You asked for it -> 你自找的
+- You have my word -> 我保证
+- Believe it or not? -> 信不信由你
+- Easy come easy go -> 来得快去得也快
+- I beg your pardon -> 对不起，请再说一遍
+- Don't count on me -> 别指望我
+- I'll be back soon -> 我很快回来
+- I'll check it out -> 我去查查看
+- It's a long story -> 说来话长
+- It's Sunday today -> 今天是星期天
+- Just wait and see -> 等着瞧吧
+- Make up your mind -> 做个决定吧
+- That's all I need -> 我只要这些
+- Don't fall for it -> 别上当
+- Don't let me down -> 别让我失望
+- The view is great -> 景色真美
+- The wall has ears -> 隔墙有耳
+- There comes a bus -> 公交车来了
+- What day is today -> 今天是星期几？
+- What do you think -> 你觉得怎么样？
+- You can't miss it -> 你不会错过的
+- Don't be so modest -> 别太谦虚了
+- He can hardly speak -> 他几乎说不出话来
+- He always talks big -> 他总是吹牛
+- Who's kicking off -> 谁来开球？
+- Yes, I suppose so -> 是的，我想是吧
+- Who told you that -> 谁告诉你的？
+- As soon as possible -> 尽快
+- Don't give me that -> 别给我那套
+- I felt sort of ill -> 我感觉有点不舒服
+- He is a smart boy -> 他是个聪明的小男孩
+- I have a good idea -> 我有一个好主意
+- It is growing cool -> 天气越来越凉了
+- It seems all right -> 看起来没问题
+- That's a good idea -> 这个主意不错
+- The answer is zero -> 答案是零
+- What does she like -> 她喜欢什么？
+- I'll be right there -> 我马上到
+- I'll see you at six -> 我六点见你
+- Just read it for me -> 就读给我听好了
+- knowledge is power -> 知识就是力量
+- move out of my way -> 让开
+- time is running out -> 时间不多了
+- We are good friends -> 我们是好朋友
+- What's your trouble -> 你有什么问题？
+- You did fairly well -> 你做得相当不错
+- Clothes make the man -> 人靠衣装
+- Did you miss the bus -> 你错过公交车了吗？
+- Don't lose your head -> 别慌了手脚
+- He can't take a joke -> 他开不起玩笑
+- He owes my uncle 100 -> 他欠我叔叔一百块
+- How are things going -> 事情进展得怎么样？
+- How are you recently -> 你最近怎么样？
+- I know all about it -> 我知道这一切
+
+
