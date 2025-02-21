@@ -4,7 +4,15 @@
         <link>http://localhost:1313/posts/</link>
         <description>所有文章 | Joe&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
-            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Fri, 21 Feb 2025 07:05:03 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Fri, 21 Feb 2025 20:40:16 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>废柴的一下午以及开启冥想的第一天</title>
+    <link>http://localhost:1313/posts/essay/%E5%BA%9F%E6%9F%B4%E7%9A%84%E4%B8%80%E4%B8%8B%E5%8D%88/</link>
+    <pubDate>Fri, 21 Feb 2025 20:40:16 &#43;0800</pubDate>
+    <author>Joe</author>
+    <guid>http://localhost:1313/posts/essay/%E5%BA%9F%E6%9F%B4%E7%9A%84%E4%B8%80%E4%B8%8B%E5%8D%88/</guid>
+    <description><![CDATA[由于今天早上和一位同事对接了需求，从而开启了一天不愉快的生活。本来一个非常简单的功能，后端实现好之后，把 postman 接口文档放到 ufs 上，我再拿到此文档去]]></description>
+</item>
+<item>
     <title>重启人生</title>
     <link>http://localhost:1313/posts/essay/%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F/</link>
     <pubDate>Fri, 21 Feb 2025 07:05:03 &#43;0800</pubDate>
@@ -75,14 +83,6 @@
     <author>Joe</author>
     <guid>http://localhost:1313/posts/essay/%E4%BB%80%E4%B9%88%E6%98%AF%E6%81%8B%E7%88%B1/</guid>
     <description><![CDATA[什么是恋爱呢？是刻意且频繁的聊天吗？还是每天无所事事的黏在一起呢？都不是。这叫过家家，不叫谈恋爱。 真正的恋爱，是一起努力，一起进步，是能够为]]></description>
-</item>
-<item>
-    <title>抓娃娃</title>
-    <link>http://localhost:1313/posts/essay/Successor/</link>
-    <pubDate>Sun, 27 Oct 2024 21:56:43 &#43;0800</pubDate>
-    <author>Joe</author>
-    <guid>http://localhost:1313/posts/essay/Successor/</guid>
-    <description><![CDATA[昨天晚上看完了《抓娃娃》，感觉像是中国版的《楚门的世界》。剧中的孩子从小就被父母安排好了一切，，甚至于未来的人生轨迹。这样的人生未免太过于恐]]></description>
 </item>
 </channel>
 </rss>
