@@ -1,0 +1,115 @@
+# 五词以内迷你句子3
+
+
+- It's against the law -> 这是违法的
+- Stop making such a noise -> 别吵了
+- That makes no difference -> 这没差别
+- The price is reasonable -> 价格还算合理
+- They crowned him king -> 他们拥立他为国王
+- They're in red and white -> 他们穿着红白相间的衣服
+- This boy has no job -> 这个男孩没有工作
+- This house is my own -> 这房子是我的
+- What happened to you? -> 你怎么了？
+- You came just in time -> 你来得正是时候
+- You need a job -> 你需要一份工作
+- You need exercise -> 你需要锻炼
+- Your hand feels cold -> 你的手摸起来很冷
+- Don't be so childish -> 别这么孩子气
+- Don't trust a chance -> 不要碰运气
+- Love me, love my dog -> 爱屋及乌
+- My mouth is watering -> 我口水都流出来了
+- Well, you're cool, right? -> 嗯，你很酷，对吧？
+- Speak louder, please -> 请说大声点
+- Fasten your seatbelt -> 系好你的安全带
+- He suggested a picnic -> 他建议搞一次野餐
+- Here's a gift for you -> 这里有个礼物送给你
+- How much does it cost? -> 多少钱？
+- I caught the last bus -> 我赶上了最后一班公交
+- I could hardly speak -> 我几乎说不出话来
+- I'll have to try that -> 我一定要试试
+- I'm very proud of you -> 我为你感到非常骄傲
+- It doesn't make sense -> 这没有道理
+- He has a large income -> 他收入很高
+- He looks very healthy -> 他看起来很健康
+- He paused for a reply -> 他停下来等着回答
+- He repaired his house -> 他修理了他的房子
+- Make yourself at home -> 别拘束，像在家一样
+- My car needs washing -> 我的车需要洗洗
+- None of your business -> 与你无关
+- Not a sound was heard -> 一点声音都没听到
+- That's always the case -> 情况总是这样
+- The road divides here -> 这条路在这里分叉
+- East or west, home is best -> 金窝银窝，不如自己的草窝
+- He grasped both my hands -> 他紧握住我的双手
+- He is physically mature -> 他身体已发育成熟
+- I am so sorry about this -> 我对此很抱歉
+- Those are watermelons -> 那些是西瓜
+- What a nice day it is -> 天气真好啊
+- What's wrong with you? -> 你怎么了？
+- You are a chicken -> 你是个胆小鬼
+- A lovely day, isn't it? -> 天气真好，不是吗？
+- He is collecting money -> 他在收集钱
+- He was born in New York -> 他出生在纽约
+- He was not a bit tired -> 他一点也不累
+- I will be more careful -> 我会更加小心
+- I will never forget it -> 我永远不会忘记
+- It is just what I need -> 这正是我需要的
+- It rather surprised me -> 这让我相当惊讶
+- Just around the corner -> 就在附近
+- Just for entertainment -> 只是为了娱乐
+- Let bygones be bygones -> 过去的，就让它过去吧
+- Mother doesn't make up -> 妈妈不化妆
+- Oh, you are kidding me -> 哦，你在开玩笑吧
+- She has been to school -> 她已经去学校了
+- Sailing is interesting -> 航海很有趣
+- Supper is ready at six -> 晚餐六点就准备好了
+- That's a terrific idea -> 好主意
+- What horrible weather -> 天气真糟糕
+- Which would you prefer -> 你更喜欢哪个？
+- Does she like ice cream? -> 她喜欢吃冰淇淋吗？
+- First come, first served -> 先到先得
+- Great minds think alike -> 英雄所见略同
+- He has a sense of humor -> 他有幽默感
+- He is acting an old man -> 他在扮演一个老人
+- He is looking for a job -> 他在找工作
+- He doesn't care about me -> 他不在乎我
+- I develop films myself -> 我自己冲洗照片
+- I felt no regret for it -> 我对此一点也不后悔
+- I get up at six o'clock -> 我六点起床
+- I meet the boss himself -> 我直接见到了老板本人
+- I owe you for my dinner -> 我欠你一顿晚餐的钱
+- I really enjoyed myself -> 我真的很享受
+- I'm fed up with my work -> 我对我的工作感到厌倦
+- It's no use complaining -> 抱怨没用
+- She's under the weather -> 她身体不太舒服
+- The child sobbed sadly -> 孩子伤心地抽泣
+- The rumor had no basis -> 传闻毫无根据
+- They praised him highly -> 他们高度赞扬他
+- Winter is a cold season -> 冬天是寒冷的季节
+- You can call me anytime -> 你随时可以给我打电话
+- 15 divided by 3 equals 5 -> 15 除以 3 等于 5
+- All for one, one for all -> 人人为我，我为人人
+- I can't afford a new car -> 我买不起新车
+- I do want to see him now -> 我现在真的很想见他
+- I have the right to know -> 我有权知道
+- I heard someone laughing -> 我听到有人在笑
+- I suppose you dance much -> 我猜你经常跳舞
+- I walked across the park -> 我穿过公园
+- I'll just play it by ear -> 我会随机应变
+- I'm not sure I can do it -> 我不确定我能做到
+- I'm not used to drinking -> 我不习惯喝酒
+- Is the cut still painful? -> 伤口还疼吗？
+- It's too good to be true -> 好得难以置信
+- Jean is a blue-eyed girl -> 珍是个蓝眼睛的女孩
+- Let's not waste our time -> 别浪费我们的时间
+- May I ask some questions? -> 我可以问几个问题吗？
+- Money is not everything -> 钱不是万能的
+- Neither of the men spoke -> 两个男人都没说话
+- We all desire happiness -> 我们都渴望幸福
+- We just caught the plane -> 我们刚赶上飞机
+- What shall we do tonight? -> 今晚我们该做什么？
+- What's your goal in life? -> 你的人生目标是什么？
+- When was the house built? -> 这房子是什么时候建的？
+- Why did you stay at home? -> 你为什么呆在家里？
+
+

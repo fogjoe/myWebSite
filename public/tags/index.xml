@@ -4,20 +4,20 @@
         <link>http://localhost:1313/tags/</link>
         <description>Tags - 标签 - Joe&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
-            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Wed, 19 Feb 2025 21:21:21 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>Learn</title>
-    <link>http://localhost:1313/tags/learn/</link>
-    <pubDate>Wed, 19 Feb 2025 21:21:21 &#43;0800</pubDate>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Fri, 21 Feb 2025 07:05:03 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Essay</title>
+    <link>http://localhost:1313/tags/essay/</link>
+    <pubDate>Fri, 21 Feb 2025 07:05:03 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/tags/learn/</guid>
+    <guid>http://localhost:1313/tags/essay/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>Essay</title>
-    <link>http://localhost:1313/tags/essay/</link>
-    <pubDate>Wed, 08 Jan 2025 09:29:20 &#43;0800</pubDate>
+    <title>Learn</title>
+    <link>http://localhost:1313/tags/learn/</link>
+    <pubDate>Thu, 20 Feb 2025 21:40:11 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/tags/essay/</guid>
+    <guid>http://localhost:1313/tags/learn/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
