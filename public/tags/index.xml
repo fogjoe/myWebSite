@@ -4,10 +4,18 @@
         <link>http://localhost:1313/tags/</link>
         <description>Tags - 标签 - Joe&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
-            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Sat, 01 Mar 2025 18:16:45 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Mon, 17 Mar 2025 10:51:08 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Books</title>
+    <link>http://localhost:1313/tags/books/</link>
+    <pubDate>Mon, 17 Mar 2025 10:51:08 &#43;0800</pubDate>
+    <author>Joe</author>
+    <guid>http://localhost:1313/tags/books/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Essay</title>
     <link>http://localhost:1313/tags/essay/</link>
-    <pubDate>Sat, 01 Mar 2025 18:16:45 &#43;0800</pubDate>
+    <pubDate>Sun, 16 Mar 2025 08:54:52 &#43;0800</pubDate>
     <author>Joe</author>
     <guid>http://localhost:1313/tags/essay/</guid>
     <description><![CDATA[]]></description>
@@ -34,14 +42,6 @@
     <pubDate>Sun, 03 Nov 2024 20:30:06 &#43;0800</pubDate>
     <author>Joe</author>
     <guid>http://localhost:1313/tags/sports/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Books</title>
-    <link>http://localhost:1313/tags/books/</link>
-    <pubDate>Sun, 06 Oct 2024 21:58:48 &#43;0800</pubDate>
-    <author>Joe</author>
-    <guid>http://localhost:1313/tags/books/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
