@@ -1,55 +1,55 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - 标签 - Joe&#39;s Blog</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>http://localhost:11879/tags/</link>
         <description>Tags - 标签 - Joe&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
-            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Mon, 17 Mar 2025 10:51:08 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Tue, 18 Mar 2025 18:56:37 &#43;0800</lastBuildDate><atom:link href="http://localhost:11879/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Learn</title>
+    <link>http://localhost:11879/tags/learn/</link>
+    <pubDate>Tue, 18 Mar 2025 18:56:37 &#43;0800</pubDate>
+    <author>Joe</author>
+    <guid>http://localhost:11879/tags/learn/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Books</title>
-    <link>http://localhost:1313/tags/books/</link>
+    <link>http://localhost:11879/tags/books/</link>
     <pubDate>Mon, 17 Mar 2025 10:51:08 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/tags/books/</guid>
+    <guid>http://localhost:11879/tags/books/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Essay</title>
-    <link>http://localhost:1313/tags/essay/</link>
+    <link>http://localhost:11879/tags/essay/</link>
     <pubDate>Sun, 16 Mar 2025 08:54:52 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/tags/essay/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Learn</title>
-    <link>http://localhost:1313/tags/learn/</link>
-    <pubDate>Thu, 20 Feb 2025 21:40:11 &#43;0800</pubDate>
-    <author>Joe</author>
-    <guid>http://localhost:1313/tags/learn/</guid>
+    <guid>http://localhost:11879/tags/essay/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Investment</title>
-    <link>http://localhost:1313/tags/investment/</link>
+    <link>http://localhost:11879/tags/investment/</link>
     <pubDate>Thu, 02 Jan 2025 21:39:51 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/tags/investment/</guid>
+    <guid>http://localhost:11879/tags/investment/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Sports</title>
-    <link>http://localhost:1313/tags/sports/</link>
+    <link>http://localhost:11879/tags/sports/</link>
     <pubDate>Sun, 03 Nov 2024 20:30:06 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/tags/sports/</guid>
+    <guid>http://localhost:11879/tags/sports/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Life</title>
-    <link>http://localhost:1313/tags/life/</link>
+    <link>http://localhost:11879/tags/life/</link>
     <pubDate>Sat, 05 Oct 2024 20:03:48 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/tags/life/</guid>
+    <guid>http://localhost:11879/tags/life/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

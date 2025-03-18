@@ -1,71 +1,71 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - 分类 - Joe&#39;s Blog</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>http://localhost:11879/categories/</link>
         <description>Categories - 分类 - Joe&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
-            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Mon, 17 Mar 2025 10:51:08 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Tue, 18 Mar 2025 18:56:37 &#43;0800</lastBuildDate><atom:link href="http://localhost:11879/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>英语</title>
+    <link>http://localhost:11879/categories/english/</link>
+    <pubDate>Tue, 18 Mar 2025 18:56:37 &#43;0800</pubDate>
+    <author>Joe</author>
+    <guid>http://localhost:11879/categories/english/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>文学</title>
-    <link>http://localhost:1313/categories/literature/</link>
+    <link>http://localhost:11879/categories/literature/</link>
     <pubDate>Mon, 17 Mar 2025 10:51:08 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/categories/literature/</guid>
+    <guid>http://localhost:11879/categories/literature/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>碎碎念</title>
-    <link>http://localhost:1313/categories/daily/</link>
+    <link>http://localhost:11879/categories/daily/</link>
     <pubDate>Sun, 16 Mar 2025 08:54:52 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/categories/daily/</guid>
+    <guid>http://localhost:11879/categories/daily/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>影视剧</title>
-    <link>http://localhost:1313/categories/movie/</link>
+    <link>http://localhost:11879/categories/movie/</link>
     <pubDate>Fri, 21 Feb 2025 07:05:03 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/categories/movie/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>英语</title>
-    <link>http://localhost:1313/categories/english/</link>
-    <pubDate>Thu, 20 Feb 2025 21:40:11 &#43;0800</pubDate>
-    <author>Joe</author>
-    <guid>http://localhost:1313/categories/english/</guid>
+    <guid>http://localhost:11879/categories/movie/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>理财</title>
-    <link>http://localhost:1313/categories/money/</link>
+    <link>http://localhost:11879/categories/money/</link>
     <pubDate>Thu, 02 Jan 2025 21:39:51 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/categories/money/</guid>
+    <guid>http://localhost:11879/categories/money/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>骑行</title>
-    <link>http://localhost:1313/categories/cycle/</link>
+    <link>http://localhost:11879/categories/cycle/</link>
     <pubDate>Sun, 03 Nov 2024 20:30:06 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/categories/cycle/</guid>
+    <guid>http://localhost:11879/categories/cycle/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>旅游</title>
-    <link>http://localhost:1313/categories/travel/</link>
+    <link>http://localhost:11879/categories/travel/</link>
     <pubDate>Sat, 05 Oct 2024 20:03:48 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/categories/travel/</guid>
+    <guid>http://localhost:11879/categories/travel/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>跑步</title>
-    <link>http://localhost:1313/categories/run/</link>
+    <link>http://localhost:11879/categories/run/</link>
     <pubDate>Tue, 01 Oct 2024 19:31:18 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/categories/run/</guid>
+    <guid>http://localhost:11879/categories/run/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

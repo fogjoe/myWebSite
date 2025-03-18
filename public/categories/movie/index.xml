@@ -1,31 +1,31 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>影视剧 - 分类 - Joe&#39;s Blog</title>
-        <link>http://localhost:1313/categories/movie/</link>
+        <link>http://localhost:11879/categories/movie/</link>
         <description>影视剧 - 分类 - Joe&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
-            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Fri, 21 Feb 2025 07:05:03 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/movie/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Fri, 21 Feb 2025 07:05:03 &#43;0800</lastBuildDate><atom:link href="http://localhost:11879/categories/movie/" rel="self" type="application/rss+xml" /><item>
     <title>重启人生</title>
-    <link>http://localhost:1313/posts/essay/%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F/</link>
+    <link>http://localhost:11879/posts/essay/%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F/</link>
     <pubDate>Fri, 21 Feb 2025 07:05:03 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/posts/essay/%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F/</guid>
+    <guid>http://localhost:11879/posts/essay/%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F/</guid>
     <description><![CDATA[1. 总评 昨天终于看完了《重启人生》，从第七集开始使用 2 倍速观看，整体看下来比较平淡，感觉一般，不过立意比较新颖，所以可以有个 9 分的样子。 2. 死因]]></description>
 </item>
 <item>
     <title>抓娃娃</title>
-    <link>http://localhost:1313/posts/essay/Successor/</link>
+    <link>http://localhost:11879/posts/essay/Successor/</link>
     <pubDate>Sun, 27 Oct 2024 21:56:43 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/posts/essay/Successor/</guid>
+    <guid>http://localhost:11879/posts/essay/Successor/</guid>
     <description><![CDATA[昨天晚上看完了《抓娃娃》，感觉像是中国版的《楚门的世界》。剧中的孩子从小就被父母安排好了一切，，甚至于未来的人生轨迹。这样的人生未免太过于恐]]></description>
 </item>
 <item>
     <title>EVA</title>
-    <link>http://localhost:1313/posts/essay/EVA/</link>
+    <link>http://localhost:11879/posts/essay/EVA/</link>
     <pubDate>Tue, 08 Oct 2024 17:55:00 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/posts/essay/EVA/</guid>
+    <guid>http://localhost:11879/posts/essay/EVA/</guid>
     <description><![CDATA[断断续续花了三天时间看完了《EVA》，看的时候发现那个时代的潮流在当下已经所见不鲜了，很平常的剧情：升级打怪。但是它涉及的主题很深奥，尤其是]]></description>
 </item>
 </channel>
