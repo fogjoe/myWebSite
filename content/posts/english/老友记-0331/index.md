@@ -26,7 +26,7 @@ categories = ['english']
   - 魅力、迷人的美、魔法、迷惑
 - freakish
   - 反常的；怪异的；古怪的
-- blech
+- belch
   - 打嗝
 - fabric
   - 织物
@@ -34,3 +34,14 @@ categories = ['english']
   - 分手快乐
 - I had the most supremely awful day.
   - 我今天真是衰到家了。
+
+One day, a man with his gang of friends discusses a plan which he wants to pursue a girl. They have a lot of thoughts of manoeuvres. But none of these is perfect. So he wants to date her directly and asks her whether she can do his girlfriend. When they eat dinner, the man is a little freakish, he is uneasy. As far as he is concerned, in the first time, he confesses his love to this girl, it will fail. So his heart tells him: You're not up to this? He's afraid it's. 
+
+What the shit do you write?
+
+- I met a freakish man who wraps himself in a coat.
+- After i eat the dinner and don't drink something, i will belch.
+- The poor guy doesn't experience multiple orgasms, even the climax.
+- You know what blows my mind? I want to be a bunny because it's so cute.
+- This dress is made of soft fabric.
+- Trust is the fabric of a strong relationship.
