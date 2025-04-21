@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>复盘 - 分类 - Joe&#39;s Blog</title>
-        <link>http://localhost:1313/categories/review/</link>
+        <link>http://localhost:14317/categories/review/</link>
         <description>复盘 - 分类 - Joe&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
-            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Mon, 14 Apr 2025 08:59:05 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/review/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Mon, 14 Apr 2025 08:59:05 &#43;0800</lastBuildDate><atom:link href="http://localhost:14317/categories/review/" rel="self" type="application/rss+xml" /><item>
     <title>04.14-复盘</title>
-    <link>http://localhost:1313/posts/life/04.14-review/</link>
+    <link>http://localhost:14317/posts/life/04.14-review/</link>
     <pubDate>Mon, 14 Apr 2025 08:59:05 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:1313/posts/life/04.14-review/</guid>
+    <guid>http://localhost:14317/posts/life/04.14-review/</guid>
     <description><![CDATA[昨天听完亦客大佬的分享，收益颇多。这也给了我对于生活以及工作的一些思考。 目前打算明年投一投外企，所以晚上会精听老友记的听力，之前还会听一听油]]></description>
 </item>
 </channel>
