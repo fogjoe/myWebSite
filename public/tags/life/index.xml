@@ -1,23 +1,31 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Life - 标签 - Joe&#39;s Blog</title>
-        <link>http://localhost:14317/tags/life/</link>
+        <link>http://localhost:1313/tags/life/</link>
         <description>Life - 标签 - Joe&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
-            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Mon, 14 Apr 2025 08:59:05 &#43;0800</lastBuildDate><atom:link href="http://localhost:14317/tags/life/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Tue, 22 Apr 2025 09:04:41 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/life/" rel="self" type="application/rss+xml" /><item>
+    <title>04.22-复盘</title>
+    <link>http://localhost:1313/posts/life/04.22-review/</link>
+    <pubDate>Tue, 22 Apr 2025 09:04:41 &#43;0800</pubDate>
+    <author>Joe</author>
+    <guid>http://localhost:1313/posts/life/04.22-review/</guid>
+    <description><![CDATA[不知最近是不是因为工作比较少的原因，上班无所事事的时候开始思考代码之外的事情了，比如转行。昨天下午有了两个 idea，一个是看了看生财有术，想]]></description>
+</item>
+<item>
     <title>04.14-复盘</title>
-    <link>http://localhost:14317/posts/life/04.14-review/</link>
+    <link>http://localhost:1313/posts/life/04.14-review/</link>
     <pubDate>Mon, 14 Apr 2025 08:59:05 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:14317/posts/life/04.14-review/</guid>
+    <guid>http://localhost:1313/posts/life/04.14-review/</guid>
     <description><![CDATA[昨天听完亦客大佬的分享，收益颇多。这也给了我对于生活以及工作的一些思考。 目前打算明年投一投外企，所以晚上会精听老友记的听力，之前还会听一听油]]></description>
 </item>
 <item>
     <title>山东游玩</title>
-    <link>http://localhost:14317/posts/life/%E5%B1%B1%E4%B8%9C%E6%B8%B8%E7%8E%A9/</link>
+    <link>http://localhost:1313/posts/life/%E5%B1%B1%E4%B8%9C%E6%B8%B8%E7%8E%A9/</link>
     <pubDate>Sat, 05 Oct 2024 20:03:48 &#43;0800</pubDate>
     <author>Joe</author>
-    <guid>http://localhost:14317/posts/life/%E5%B1%B1%E4%B8%9C%E6%B8%B8%E7%8E%A9/</guid>
+    <guid>http://localhost:1313/posts/life/%E5%B1%B1%E4%B8%9C%E6%B8%B8%E7%8E%A9/</guid>
     <description><![CDATA[山东之行 1. 初到济南 10 月 2 号下午到达济南，和朋友汇合后抵达酒店，一进去发现店面小的一批， 而且隔音效果不好， 枫季酒店 但是那天晚上睡得还行，可能是]]></description>
 </item>
 </channel>
