@@ -4,9 +4,25 @@
         <link>http://localhost:1313/</link>
         <description>Welcome to the real world, it sucks, but you gonna love it!</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
-            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Tue, 22 Apr 2025 09:04:41 &#43;0800</lastBuildDate>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Sat, 26 Apr 2025 14:50:47 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>04-26-复盘</title>
+    <link>http://localhost:1313/posts/life/04-26-review/</link>
+    <pubDate>Sat, 26 Apr 2025 14:50:47 &#43;0800</pubDate>
+    <author>Joe</author>
+    <guid>http://localhost:1313/posts/life/04-26-review/</guid>
+    <description><![CDATA[目前自我感觉越来越浮躁了，这可不是什么好兆头，怀疑是短视频看的越来越多了，昨晚在打游戏的时候等待期间进入小红书，发现好多帖子都是很弱智的言论]]></description>
+</item>
+<item>
+    <title>百年孤独摘要</title>
+    <link>http://localhost:1313/posts/books/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC%E6%91%98%E8%A6%81/</link>
+    <pubDate>Fri, 25 Apr 2025 13:46:51 &#43;0800</pubDate>
+    <author>Joe</author>
+    <guid>http://localhost:1313/posts/books/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC%E6%91%98%E8%A6%81/</guid>
+    <description><![CDATA[当一个人的心事无法对别人述说之时，都会在内心给自己建立一个世界，开始自我的救赎，孤独从此开始。 但是，也许这就是成长的时刻。接受孤独，才能建立]]></description>
+</item>
+<item>
     <title>04.22-复盘</title>
     <link>http://localhost:1313/posts/life/04.22-review/</link>
     <pubDate>Tue, 22 Apr 2025 09:04:41 &#43;0800</pubDate>
@@ -69,22 +85,6 @@
     <author>Joe</author>
     <guid>http://localhost:1313/posts/essay/%E4%BC%BD%E8%8F%9C%E5%AD%90%E7%9A%84%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB/</guid>
     <description><![CDATA[哇，看到最后都给我看哭了，好磕啊，果然男孩子是非常喜欢阳光又可爱的女孩子呀! 还有这两位警官也好磕啊，两个人都是逗比哈哈哈，希望下一季两个人能]]></description>
-</item>
-<item>
-    <title>棋士</title>
-    <link>http://localhost:1313/posts/essay/%E6%A3%8B%E5%A3%AB/</link>
-    <pubDate>Sat, 29 Mar 2025 09:36:04 &#43;0800</pubDate>
-    <author>Joe</author>
-    <guid>http://localhost:1313/posts/essay/%E6%A3%8B%E5%A3%AB/</guid>
-    <description><![CDATA[《棋士》看完第七集了，感觉越来越像《breaking bad》本土化移植。为了给自己孩子看病，都走上了不法的道路；智商贼高，都是在老师的岗位平]]></description>
-</item>
-<item>
-    <title>游泳游爽了</title>
-    <link>http://localhost:1313/posts/sports/%E6%B8%B8%E6%B3%B3%E6%B8%B8%E7%88%BD%E4%BA%86/</link>
-    <pubDate>Sat, 29 Mar 2025 09:28:25 &#43;0800</pubDate>
-    <author>Joe</author>
-    <guid>http://localhost:1313/posts/sports/%E6%B8%B8%E6%B3%B3%E6%B8%B8%E7%88%BD%E4%BA%86/</guid>
-    <description><![CDATA[今天️游泳游了近三个小时，包括教学以及练习，今天上了第四节课，算是解了这一周没游的痛苦，爽了爽了]]></description>
 </item>
 </channel>
 </rss>
