@@ -4,7 +4,15 @@
         <link>http://localhost:1313/categories/literature/</link>
         <description>文学 - 分类 - Joe&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
-            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Fri, 25 Apr 2025 13:46:51 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/literature/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Wed, 07 May 2025 13:49:54 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/literature/" rel="self" type="application/rss+xml" /><item>
+    <title>百年孤独</title>
+    <link>http://localhost:1313/posts/books/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC/</link>
+    <pubDate>Wed, 07 May 2025 13:49:54 &#43;0800</pubDate>
+    <author>Joe</author>
+    <guid>http://localhost:1313/posts/books/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC/</guid>
+    <description><![CDATA[这本书算是一类超魔幻现实主义的书种。马孔多小镇算是拉丁美洲的一个缩影吧。何塞·阿尔卡蒂奥·布恩迪亚家族做为马孔多小镇的创世一族，曾带领这个小]]></description>
+</item>
+<item>
     <title>百年孤独摘要</title>
     <link>http://localhost:1313/posts/books/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC%E6%91%98%E8%A6%81/</link>
     <pubDate>Fri, 25 Apr 2025 13:46:51 &#43;0800</pubDate>
