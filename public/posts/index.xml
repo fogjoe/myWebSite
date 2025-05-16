@@ -4,7 +4,15 @@
         <link>http://localhost:1313/posts/</link>
         <description>所有文章 | Joe&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
-            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Fri, 16 May 2025 09:12:08 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Fri, 16 May 2025 09:20:45 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>05-16-复盘</title>
+    <link>http://localhost:1313/posts/life/05-16-review/</link>
+    <pubDate>Fri, 16 May 2025 09:20:45 &#43;0800</pubDate>
+    <author>Joe</author>
+    <guid>http://localhost:1313/posts/life/05-16-review/</guid>
+    <description><![CDATA[运动 本周大部分晚上基本都是吃很少、很健康，然后运动量也还可以，体重罕见的达到了 135，非常开心捏。不过中间有两次做的不好的地方：其一，周三晚]]></description>
+</item>
+<item>
     <title>圆圈正义</title>
     <link>http://localhost:1313/posts/books/%E5%9C%86%E5%9C%88%E6%AD%A3%E4%B9%89/</link>
     <pubDate>Fri, 16 May 2025 09:12:08 &#43;0800</pubDate>
@@ -75,14 +83,6 @@
     <author>Joe</author>
     <guid>http://localhost:1313/posts/books/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC%E6%91%98%E8%A6%81/</guid>
     <description><![CDATA[当一个人的心事无法对别人述说之时，都会在内心给自己建立一个世界，开始自我的救赎，孤独从此开始。 但是，也许这就是成长的时刻。接受孤独，才能建立]]></description>
-</item>
-<item>
-    <title>04.22-复盘</title>
-    <link>http://localhost:1313/posts/life/04.22-review/</link>
-    <pubDate>Tue, 22 Apr 2025 09:04:41 &#43;0800</pubDate>
-    <author>Joe</author>
-    <guid>http://localhost:1313/posts/life/04.22-review/</guid>
-    <description><![CDATA[不知最近是不是因为工作比较少的原因，上班无所事事的时候开始思考代码之外的事情了，比如转行。昨天下午有了两个 idea，一个是看了看生财有术，想]]></description>
 </item>
 </channel>
 </rss>

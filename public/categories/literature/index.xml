@@ -4,7 +4,23 @@
         <link>http://localhost:1313/categories/literature/</link>
         <description>文学 - 分类 - Joe&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>fogjoe77@gmail.com (Joe)</managingEditor>
-            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Thu, 08 May 2025 10:14:35 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/literature/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>fogjoe77@gmail.com (Joe)</webMaster><lastBuildDate>Fri, 16 May 2025 09:12:08 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/literature/" rel="self" type="application/rss+xml" /><item>
+    <title>圆圈正义</title>
+    <link>http://localhost:1313/posts/books/%E5%9C%86%E5%9C%88%E6%AD%A3%E4%B9%89/</link>
+    <pubDate>Fri, 16 May 2025 09:12:08 &#43;0800</pubDate>
+    <author>Joe</author>
+    <guid>http://localhost:1313/posts/books/%E5%9C%86%E5%9C%88%E6%AD%A3%E4%B9%89/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>圆圈正义摘要</title>
+    <link>http://localhost:1313/posts/books/%E5%9C%86%E5%9C%88%E6%AD%A3%E4%B9%89%E6%91%98%E8%A6%81/</link>
+    <pubDate>Fri, 16 May 2025 09:11:55 &#43;0800</pubDate>
+    <author>Joe</author>
+    <guid>http://localhost:1313/posts/books/%E5%9C%86%E5%9C%88%E6%AD%A3%E4%B9%89%E6%91%98%E8%A6%81/</guid>
+    <description><![CDATA[如若命运之手将我们推向特殊的时刻, 愿我们能有我们期待中那般勇敢。 站在局外人的角度，如果我是那个法官，我想要通过自己的勇敢去为那个人平反，不辞]]></description>
+</item>
+<item>
     <title>蛤蟆先生去看心理医生</title>
     <link>http://localhost:1313/posts/books/%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F%E5%8E%BB%E7%9C%8B%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F/</link>
     <pubDate>Thu, 08 May 2025 10:14:35 &#43;0800</pubDate>
